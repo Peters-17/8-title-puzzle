@@ -1,4 +1,5 @@
 # 8-title-puzzle
+Score 100/100
 # Assignment Goals
 ● Deepen understanding of state space generation.
 
